@@ -1,4 +1,4 @@
-### Olá! Me chamo Felipe Almeida Silva
+### Olá! Eu sou o Felipe Almeida Silva
 
 - ✍️ Concluindo Eletroeletrônica no Instituto Federal de Alagoas
 - 🌱 Estudando Python (desenvolvimento web)
