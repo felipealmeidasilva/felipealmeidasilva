@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Felipe Almeida Silva
 
-- ✍️ Concluindo Eletroeletrônica no Instituto Federal de Alagoas
+- ✍️ Técnico em Eletroeletrônica pelo Instituto Federal de Alagoas
+- ✍️ Graduando Ciência da Computação pela Universidade Federal de Alagoas
 - 🌱 Estudando Python (desenvolvimento web)
 
 <div align="center">
