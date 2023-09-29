@@ -2,8 +2,7 @@
 
 - ✍️ Técnico em Eletroeletrônica pelo Instituto Federal de Alagoas
 - ✍️ Graduando Ciência da Computação pela Universidade Federal de Alagoas
-- 🌱 Estudando Python (desenvolvimento web)
-
+- 🌱 DevBack-end 💀
 <div align="center">
   <a href="https://github.com/felipealmeidasilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipealmeidasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
