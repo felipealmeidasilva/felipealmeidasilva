@@ -37,6 +37,15 @@ I’ve had the opportunity to build robust and scalable systems, working with te
 ##
 <div align="center">
   <a href="https://github.com/felipealmeidasilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipealmeidasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealmeidasilva&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipealmeidasilva&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealmeidasilva&layout=compact&theme=dark"/>
+</div>
+
+##
+📲Other Social Media: <br>
+<div align="center">
+
+<a href="https://www.instagram.com/felipealmesilv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipealmeidasilvaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
