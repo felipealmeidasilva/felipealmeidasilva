@@ -1,8 +1,8 @@
 ### 👋 Hello! I'm Felipe Almeida Silva
-🎓 Técnico em Eletroeletrônica – Instituto Federal de Alagoas (IFAL)<br>
-🎓 Graduando em Ciência da Computação – Universidade Federal de Alagoas (UFAL)
+🎓 Electronics Technician – Federal Institute of Alagoas (IFAL)<br>
+🎓 Graduating in Computer Science – Federal University of Alagoas (UFAL)
 
-💻 <strong>Back-end Developer | Automação com Python | Estudando Java</strong>
+💻 <strong>Back-end Developer</strong>
 
 ##
 
