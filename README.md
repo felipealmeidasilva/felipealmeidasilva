@@ -35,13 +35,6 @@ I’ve had the opportunity to build robust and scalable systems, working with te
     I'm committed to continuous improvement and passionate about solving real-world problems through technology. Let’s connect!<br>
 
 ##
-<div align="center">
-  <a href="https://github.com/felipealmeidasilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipealmeidasilva&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealmeidasilva&layout=compact&theme=dark"/>
-</div>
-
-##
 📲Other Social Media: <br>
 <div align="center">
 
